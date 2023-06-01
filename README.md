@@ -42,9 +42,8 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **ignore node_modules in git with .gitignore file**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,11 +63,11 @@ In order to run this project you need:
 
 *Web browser like  <a href='https://www.google.com/chrome/'>Google Chrome</a>
 
-*<a href='https://git-scm.com/'>Git</a>
+<li><a href='https://git-scm.com/'>Git</a></li>
 
-*<a href='https://github.com/'>GitHub</a>
+<li><a href='https://github.com/'>GitHub</a></li>
 
-*<a href='https://code.visualstudio.com/'>Source Code Editor</a>
+<li><a href='https://code.visualstudio.com/'>Source Code Editor</a></li>
 
 ### Setup
 
@@ -86,20 +85,20 @@ npm install
 
 To run the project, execute the following command:
 
-*Clone the repo to your pc
+<li>Clone the repo to your pc</li>
 
-*Use the extension <a href='https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer'>Live Server
-</a> or open de .html file 
+<li>Use the extension <a href='https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer'>Live Server
+</a> or open de .html file</li> 
 
 ### Run tests
 
 To run tests, run the following command:
 
-*HTML linters:
+<li>HTML linters:</li>
   
 npx hint .
 
-*CSS linters:
+<li>CSS linters:</li>
 
 npx stylelint "**/*.{css,scss}"
 
@@ -124,9 +123,9 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [1] **Javascript implementation for some page behaviors**
+- [2] **Compatibility with mobile devices**
+- [3] **SEO optimization**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -147,21 +146,7 @@ If you like this project support us with a ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
 I would like to thank the entire Microverse team.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -169,6 +154,6 @@ I would like to thank the entire Microverse team.
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
